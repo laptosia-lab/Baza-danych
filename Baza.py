@@ -1,7 +1,6 @@
 import streamlit as st
 from supabase import create_client, Client
-import pandas as pd
-import plotly.express as px # Opcjonalne: pip install plotly
+
 
 # --- 1. KONFIGURACJA POŁĄCZENIA ---
 # Dane Twojego projektu "Baza danych"
