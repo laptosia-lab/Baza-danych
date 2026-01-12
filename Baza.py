@@ -1,5 +1,5 @@
 import streamlit as st
-from supabase import Baza danych
+from supabase import Bazadanych
 import pandas as pd
 
 # --- KONFIGURACJA POŁĄCZENIA ---
